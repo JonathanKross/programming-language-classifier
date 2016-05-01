@@ -5,7 +5,7 @@ The Programming Language Classifier is designed to take a snippet of code and id
 The IPython notebook included in this repository, [polyglot.ipynb](https://github.com/JonathanKross/programming-language-classifier/blob/master/polyglot.ipynb), uses a MultinomialNB classifier
 
 
-The training data used was downloaded from the [Computer Language Benchmarks Game](http://benchmarksgame.alioth.debian.org/). It can be downloaded [here](https://alioth.debian.org/snapshots.php?group_id=100815).
+The training data used in this program was downloaded from the [Computer Language Benchmarks Game](http://benchmarksgame.alioth.debian.org/). It can be downloaded [here](https://alioth.debian.org/snapshots.php?group_id=100815).
 
 ## Compatible Languages
 * C (.gcc, .c)
